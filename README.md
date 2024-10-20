@@ -1,1 +1,1 @@
-# hsilvaga.github.io
+# Gaussian Splatting Experiments
