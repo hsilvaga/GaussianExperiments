@@ -17,5 +17,5 @@
 ## Diffusion Experiments
 
 ## Colmap vs Dust3r vs Mast3r vs Flowmap
-
-
+### Flowmap
+![Alt text](https://github.com/hsilvaga/GaussianExperiments/blob/main/assets/flowmap_4_cam_roses.gif)
