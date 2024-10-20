@@ -24,5 +24,5 @@
 
 ### Dust3r
 ### Mast3r
-![4_cam_roses_mast3r](https://github.com/user-attachments/assets/08d840b5-696e-4b73-a9b7-cf7369d02fd8)
+[![4_cam_roses_mast3r](https://github.com/user-attachments/assets/08d840b5-696e-4b73-a9b7-cf7369d02fd8)](https://youtu.be/EXme5P8LEPc)
 
