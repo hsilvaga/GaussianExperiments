@@ -20,6 +20,8 @@
 ### Colmap
 ### Flowmap
 ![Alt text](https://github.com/hsilvaga/GaussianExperiments/blob/main/assets/flowmap_4_cam_roses.gif)
+
 ### Dust3r
 ### Mast3r
-![Alt text](https://github.com/hsilvaga/GaussianExperiments/blob/main/assets/4_cam_roses_mast3r.gif)
+![4_cam_roses_mast3r](https://github.com/user-attachments/assets/08d840b5-696e-4b73-a9b7-cf7369d02fd8)
+
