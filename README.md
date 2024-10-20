@@ -20,7 +20,7 @@
 ### Colmap
 ### Flowmap
 ![At](https://youtu.be/EXme5P8LEPc)
-[![Video Title](https://img.youtube.com/vi/EXme5P8LEPc/0.jpg)](https://www.youtube.com/watch?v=EXme5P8LEPc)
+[![Video Title]([https://img.youtube.com/vi/EXme5P8LEPc/0.jpg](https://github.com/hsilvaga/GaussianExperiments/blob/main/assets/flowmap_4_cam_roses.gif))](https://www.youtube.com/watch?v=EXme5P8LEPc)
 
 ### Dust3r
 ### Mast3r
