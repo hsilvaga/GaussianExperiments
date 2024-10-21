@@ -3,6 +3,7 @@ The goal with these experiments is to create high-quality 3D videos with few cam
 ## Static Gaussian Experiments
 
 ### Vanilla 3D-Gaussian-Splatting (3DGS)
+![roses_colmap_gauss](https://github.com/user-attachments/assets/776cce9d-6d4a-4f86-a776-02d7a276797d)  
 
 ### FSGS: 3DGS with depth priors
 ![roses_mast3r_gauss (1) (1)](https://github.com/user-attachments/assets/d47d3dc1-bd94-4a22-b09e-a064768d9752)
