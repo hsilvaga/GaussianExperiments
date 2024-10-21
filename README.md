@@ -24,3 +24,4 @@
 ### Mast3r
 [![4_cam_roses_mast3r](https://github.com/user-attachments/assets/08d840b5-696e-4b73-a9b7-cf7369d02fd8)](https://youtu.be/EXme5P8LEPc)
 
+[colmap_roses.webm](https://github.com/user-attachments/assets/b7082b89-8101-441f-9ed0-3dd930ae529a)
