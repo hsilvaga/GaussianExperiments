@@ -1,5 +1,5 @@
 # Gaussian Splatting Experiments
-The goal with these experiments is to create high-quality 3D videos with few cameras.  
+The goal of these experiments is to create high-quality 3D videos with few cameras.  
 ## Static Gaussian Experiments
 
 ### Vanilla 3D-Gaussian-Splatting (3DGS)
