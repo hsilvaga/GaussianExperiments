@@ -5,7 +5,7 @@ The goal with these experiments is to create high-quality 3D videos with few cam
 ### Vanilla 3D-Gaussian-Splatting (3DGS)
 
 ### FSGS: 3DGS with depth priors
-![roses_mast3r_gauss](https://github.com/user-attachments/assets/6088024b-46f7-411e-8af2-63924773dc2a)
+![roses_mast3r_gauss (1) (1)](https://github.com/user-attachments/assets/d47d3dc1-bd94-4a22-b09e-a064768d9752)
 
 ## Dynamic Gaussian Experiments
 
