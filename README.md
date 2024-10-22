@@ -17,7 +17,7 @@ The goal of these experiments is to create high-quality 3D videos with few camer
 ### 4DGS
 
 ### Spacetime Gaussians
-![4_cam_roses_colmap_spacetime-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/b95497dc-91ff-4451-9fa5-1ff3673aaf13)  
+[![4_cam_roses_colmap_spacetime-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/b95497dc-91ff-4451-9fa5-1ff3673aaf13)](https://youtu.be/eIgOtSkR4Ls)
 
 #### Spacetime Gaussians with Mast3r
 [![4_cam_roses_mast3r_spacetime2 (1)](https://github.com/user-attachments/assets/a00ab2bf-64c2-4068-8efe-4d963d5306d6)](https://youtu.be/JJ4vPwudxCc)
