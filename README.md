@@ -6,7 +6,9 @@ The goal of these experiments is to create high-quality 3D videos with few camer
 [![roses_colmap_gauss](https://github.com/user-attachments/assets/776cce9d-6d4a-4f86-a776-02d7a276797d)](https://youtu.be/O_t5jwG39uw)
 
 ### FSGS: 3DGS with depth priors
-![depth](https://github.com/user-attachments/assets/1b9833e1-7b56-4aed-a33e-a731195769fc?size=100)![cam00](https://github.com/user-attachments/assets/861e94fb-1bc6-4c4e-b729-10e25080043e?size=100)  
+![og](https://github.com/user-attachments/assets/76e55720-831b-4fc7-9099-da209d3e7e29) ![depth](https://github.com/user-attachments/assets/08861898-54a7-4f5d-a39c-ced4c5a6c2b3)
+
+
 ### 3DGS with Mast3r dense pointcloud as prior
 [![roses_mast3r_gauss (1) (1)](https://github.com/user-attachments/assets/d47d3dc1-bd94-4a22-b09e-a064768d9752)](https://youtu.be/jNGTl8pLf7g)  
 
