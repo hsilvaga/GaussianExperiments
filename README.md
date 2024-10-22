@@ -17,7 +17,7 @@ The goal of these experiments is to create high-quality 3D videos with few camer
 #### Spacetime Gaussians with Mast3r
 
 
-![Roses Master Spacetime](https://github.com/user-attachments/assets/306ff1cb-23f8-46a2-942f-70f9551cc7ef)(https://youtu.be/JJ4vPwudxCc)
+[![Roses Master Spacetime](https://github.com/user-attachments/assets/306ff1cb-23f8-46a2-942f-70f9551cc7ef)](https://youtu.be/JJ4vPwudxCc)
 
 
 
