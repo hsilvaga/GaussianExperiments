@@ -11,7 +11,7 @@ The goal of these experiments is to create high-quality 3D videos with few camer
 
 
 
-### 3DGS with Mast3r dense pointcloud as prior
+### 3DGS with dense pointcloud, obtained from Mast3r, as prior
 [![roses_mast3r_gauss (1) (1)](https://github.com/user-attachments/assets/d47d3dc1-bd94-4a22-b09e-a064768d9752)](https://youtu.be/jNGTl8pLf7g)  
 
 ## Dynamic Gaussian Experiments
