@@ -9,8 +9,6 @@ The goal of these experiments is to create high-quality 3D videos with few camer
 ![og](https://github.com/user-attachments/assets/0ffbd0c3-dba5-4f21-8b2b-e38a9a347dec) ![depth](https://github.com/user-attachments/assets/f3932ff2-bb14-4687-b18f-340fecef90ab)
 
 
-
-
 ### 3DGS with dense pointcloud, obtained from Mast3r, as prior
 [![roses_mast3r_gauss (1) (1)](https://github.com/user-attachments/assets/d47d3dc1-bd94-4a22-b09e-a064768d9752)](https://youtu.be/jNGTl8pLf7g)  
 
@@ -19,7 +17,8 @@ The goal of these experiments is to create high-quality 3D videos with few camer
 ### 4DGS
 
 ### Spacetime Gaussians
-#### Spacetime Gaussians with FSGS 
+![4_cam_roses_colmap_spacetime-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/b95497dc-91ff-4451-9fa5-1ff3673aaf13)  
+
 #### Spacetime Gaussians with Mast3r
 [![4_cam_roses_mast3r_spacetime2 (1)](https://github.com/user-attachments/assets/a00ab2bf-64c2-4068-8efe-4d963d5306d6)](https://youtu.be/JJ4vPwudxCc)
 
