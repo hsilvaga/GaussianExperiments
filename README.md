@@ -30,7 +30,7 @@ Click on videos for higher-resolution
 ### Witbout Diffusion  
 This is a gaussian reconstruction with no diffusion using only 4 cameras. The surfaces appear very jagged and randomly colored.  
 ![no_diffusion_gif (1)](https://github.com/user-attachments/assets/461a852d-36d9-49ef-a254-d658de78275d)
-# With DIffusion
+### With Diffusion
 This is a gaussian reconstruction with diffusion using 4 cameras + 25x3 interpolated images between each of the cameras. This was done using ViewCrafter with the two images + dense RGB pointcloud used as priors to generate 25 interpolated images. The interpolation was run for each camera image pair.  
 The surfaces appear smoother and the coloring is more consistent.  
 ![diffusion-gif](https://github.com/user-attachments/assets/c5512715-8811-45bd-a5da-5d064911057a)
