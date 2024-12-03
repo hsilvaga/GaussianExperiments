@@ -44,7 +44,8 @@ Incredibly sparse with 391 points
 [![flowmap_4_cam_roses](https://github.com/user-attachments/assets/26284a83-fd93-4de3-b924-1396e8c7847d)](https://youtu.be/9_5DGcGhbrA)  
 Output is a dense cloud with ~205K points
 ### Dust3r
+Output is a dense cloud with similar to Mast3r, but less geometrically accurate and slight pose inaccuracy compared to Mast3r.
 ### Mast3r
 [![4_cam_roses_mast3r](https://github.com/user-attachments/assets/08d840b5-696e-4b73-a9b7-cf7369d02fd8)](https://youtu.be/EXme5P8LEPc)  
-Output is a dense cloud with ~188K points
+Output is a dense cloud with ~188K points. Point cloud is more geometrically accurate but lacking in high regions with high-frequency information (e.g. faces, plants, smaller objects, etc). Poses are still not as accuracte as other SFM pipelines, however a variant of Mast3r for SFM is available.  
 
