@@ -27,6 +27,8 @@ Click on videos for higher-resolution
 
 
 ## Diffusion Experiments
+![no_diffusion_gif (1)](https://github.com/user-attachments/assets/461a852d-36d9-49ef-a254-d658de78275d)
+![diffusion-gif](https://github.com/user-attachments/assets/c5512715-8811-45bd-a5da-5d064911057a)
 
 ## Comparison of different image-matching methods for pointcloud reconstruction
 ### Colmap
